@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "TestProject",
+  "description": "I have no idea what this will do yet ¯\\_(ツ)_/¯",
+  "version": "0.0.1",
+  
+  
+  "browser_action": {
+    "default_icon": "assets/icon_16.png",
+    "default_popup": "popup.html"
+      
+    }
+}
